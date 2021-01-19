@@ -1,9 +1,0 @@
-node_modules
-app.js
-gulpfile.js
-package-lock.json
-package.json
-webpack.config.js 
-src
-devBuild
-test
