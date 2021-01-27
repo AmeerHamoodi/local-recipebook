@@ -6,7 +6,8 @@
     "scripts": {
         "test": "echo Success",
         "start": "electron .",
-        "build": "electron-builder -p always"
+        "build": "electron-builder -p always",
+        "release": "electron-builder"
     },
     "keywords": [],
     "author": "",
