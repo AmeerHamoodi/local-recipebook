@@ -57,6 +57,7 @@
             ]
         },
         "dmg": {
+            "publish": ["github"],
             "contents": [{
                     "x": 110,
                     "y": 150
