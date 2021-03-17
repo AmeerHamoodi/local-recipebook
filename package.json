@@ -7,7 +7,7 @@
         "test": "echo Success",
         "start": "electron .",
         "build": "electron-builder -p always",
-        "release": "electron-builder"
+        "release": "electron-builder -p always"
     },
     "keywords": [],
     "author": "",
